@@ -1,5 +1,5 @@
 # TP5 - Bases De Datos y Manejo De GitHub
-#16.22 Informática Médica
+# 16.22 Informática Médica
 ## Integrantes del Grupo 2
 
 - Abril Dománico - 60014
