@@ -18,3 +18,5 @@ Este repositorio forma parte de la consigna del TP5 - Bases De Datos y Manejo De
 ## Descripción
 
 El objetivo de este trabajo práctico fue gestionar una base de datos de un centro médico, realizando consultas SQL específicas. La base de datos tiene información relacionada con pacientes, médicos, recetas y consultas médicas, proporcionando una plataforma para registrar y acceder a los datos médicos.
+
+<img src="/ITBALOGO.png" alt="logo-itba" style="width:300px;"/>
